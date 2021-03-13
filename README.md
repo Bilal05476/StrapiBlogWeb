@@ -1,3 +1,5 @@
+You can Also Check whole project on this web [Strapi Blog Web](https://strapi.io/blog/build-a-blog-with-react-strapi-and-apollo)
+
 # Backend Setup
 
 Create your Strapi backend folder using the Blog template.
@@ -7,9 +9,11 @@ Create your Strapi backend folder using the Blog template.
 Then
 
 ### `cd backend`
+
 ### `yarn strapi install graphql`
 
 # Front End Setup
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
